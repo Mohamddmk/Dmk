@@ -4,7 +4,7 @@
 		"name": "LuckPool",
         	"url": "pool.verus.io:9998",
 		"timeout": 150
-	],
+	}],
 	"user": "RBGw5jyhHFBd597G2tmwbsbyKVdRHQtHEU",
 	"pass": "x",
 	"algo": "verus",
